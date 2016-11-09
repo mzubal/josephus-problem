@@ -1,6 +1,6 @@
 # Josephus Problem Solver (Scala)
 This is a sample application solving the Josephus Problem (https://en.wikipedia.org/wiki/Josephus_problem). 
-The solution uses circular buffer based on mutable ArrayBuffer and index. I have originally used immutable IndexedSeq, but later switched to ArrayBuffer for performance reason.
+The solution uses circular buffer based on mutable ArrayBuffer and index. I have originally used immutable IndexedSeq, but later switched to ArrayBuffer for performance reasons.
 The application uses Scalatest and scala-logging backed with logback.
 
 ## Running the Application
